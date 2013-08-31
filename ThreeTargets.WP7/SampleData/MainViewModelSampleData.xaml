@@ -1,0 +1,95 @@
+<ThreeTargets_ViewModel:MainViewModel xmlns:ThreeTargets_ViewModel="clr-namespace:ThreeTargets.ViewModel" xmlns:ThreeTargets_Model="clr-namespace:ThreeTargets.Model" IsInDesignMode="False" IsInDesignModeStatic="True" IsDataLoaded="True"
+                                      SelectedDone="True">
+    <ThreeTargets_ViewModel:MainViewModel.Manifests>
+        <ThreeTargets_Model:ManifestModel Title="Aptent est lorem">
+            <ThreeTargets_Model:ManifestModel.Contents>
+                <ThreeTargets_Model:ContentModel Description="Nam vestibulum" Detail="Class sed aenean adipiscing aliquam"/>
+                <ThreeTargets_Model:ContentModel Description="Cras duis curae" Detail="Donec parturient"/>
+                <ThreeTargets_Model:ContentModel Description="Nunc mauris maecenas" Detail="Curabitur praesent dis etiam integer"/>
+                <ThreeTargets_Model:ContentModel Description="Quisque phasellus vestibulum consequat" Detail="Nullam vivamus"/>
+                <ThreeTargets_Model:ContentModel Description="Vestibulum accumsan" Detail="Convallis dignissim fusce"/>
+            </ThreeTargets_Model:ManifestModel.Contents>
+        </ThreeTargets_Model:ManifestModel>
+        <ThreeTargets_Model:ManifestModel Title="Diam hendrerit dictum fames eleifend">
+            <ThreeTargets_Model:ManifestModel.Contents>
+                <ThreeTargets_Model:ContentModel Description="Morbi amet bibendum adipiscing dictumst" Detail="Hac elementum"/>
+                <ThreeTargets_Model:ContentModel Description="Ante parturient aliquam" Detail="Leo auctor aliquet arcu"/>
+                <ThreeTargets_Model:ContentModel Description="Facilisis fermentum nulla fringilla vestibulum" Detail="Proin congue augue mus"/>
+                <ThreeTargets_Model:ContentModel Description="Blandit commodo" Detail="Vestibulum nec adipiscing"/>
+                <ThreeTargets_Model:ContentModel Description="Cursus dolor non habitasse" Detail="Parturient vestibulum per conubia"/>
+            </ThreeTargets_Model:ManifestModel.Contents>
+        </ThreeTargets_Model:ManifestModel>
+        <ThreeTargets_Model:ManifestModel Title="Luctus ultricies">
+            <ThreeTargets_Model:ManifestModel.Contents>
+                <ThreeTargets_Model:ContentModel Description="Felis himenaeos ipsum facilisi sed" Detail="Vestibulum imperdiet malesuada adipiscing cubilia"/>
+                <ThreeTargets_Model:ContentModel Description="Dapibus egestas faucibus" Detail="Penatibus sem sit eget"/>
+                <ThreeTargets_Model:ContentModel Description="Justo habitant vel parturient porttitor" Detail="Euismod feugiat lacus lectus"/>
+                <ThreeTargets_Model:ContentModel Description="Gravida nam lorem inceptos libero" Detail="Ligula interdum iaculis sed litora"/>
+                <ThreeTargets_Model:ContentModel Description="Tincidunt tristique lacinia" Detail="Vestibulum elit dis"/>
+            </ThreeTargets_Model:ManifestModel.Contents>
+        </ThreeTargets_Model:ManifestModel>
+        <ThreeTargets_Model:ManifestModel Title="Leo morbi potenti mus">
+            <ThreeTargets_Model:ManifestModel.Contents>
+                <ThreeTargets_Model:ContentModel Description="Magnis enim erat" Detail="Est vestibulum mattis"/>
+                <ThreeTargets_Model:ContentModel Description="Adipiscing laoreet" Detail="Lobortis eros venenatis natoque"/>
+                <ThreeTargets_Model:ContentModel Description="Nibh nascetur mauris posuere mollis" Detail="Vulputate montes magna hac"/>
+                <ThreeTargets_Model:ContentModel Description="Nisi parturient" Detail="Nisl pharetra placerat nunc massa"/>
+                <ThreeTargets_Model:ContentModel Description="Curabitur phasellus" Detail="Consequat convallis metus dignissim odio"/>
+            </ThreeTargets_Model:ManifestModel.Contents>
+        </ThreeTargets_Model:ManifestModel>
+        <ThreeTargets_Model:ManifestModel Title="Sapien integer semper">
+            <ThreeTargets_Model:ManifestModel.Contents>
+                <ThreeTargets_Model:ContentModel Description="Vestibulum pulvinar" Detail="Vestibulum sagittis nostra"/>
+                <ThreeTargets_Model:ContentModel Description="Senectus pretium orci pede" Detail="Ornare adipiscing"/>
+                <ThreeTargets_Model:ContentModel Description="Rhoncus platea sociosqu quam suscipit" Detail="Neque quis nec netus nulla"/>
+                <ThreeTargets_Model:ContentModel Description="Urna torquent ultrices" Detail="Elementum primis non porta rutrum"/>
+                <ThreeTargets_Model:ContentModel Description="Sodales purus risus facilisis vehicula" Detail="Viverra aliquam cras"/>
+            </ThreeTargets_Model:ManifestModel.Contents>
+        </ThreeTargets_Model:ManifestModel>
+        <ThreeTargets_Model:ManifestModel Title="Aliquam diam imperdiet eget eleifend">
+            <ThreeTargets_Model:ManifestModel.Contents>
+                <ThreeTargets_Model:ContentModel Description="Duis sociis per" Detail="Parturient fermentum"/>
+                <ThreeTargets_Model:ContentModel Description="Velit vitae nunc sed" Detail="Sem fringilla vestibulum class"/>
+                <ThreeTargets_Model:ContentModel Description="Amet habitasse volutpat sit ante" Detail="Vestibulum adipiscing"/>
+                <ThreeTargets_Model:ContentModel Description="Maecenas curae hendrerit praesent vel" Detail="Accumsan bibendum himenaeos"/>
+                <ThreeTargets_Model:ContentModel Description="Arcu quisque vivamus" Detail="Parturient dictumst"/>
+            </ThreeTargets_Model:ManifestModel.Contents>
+        </ThreeTargets_Model:ManifestModel>
+        <ThreeTargets_Model:ManifestModel Title="Venenatis vulputate dis aenean vestibulum">
+            <ThreeTargets_Model:ManifestModel.Contents>
+                <ThreeTargets_Model:ContentModel Description="Malesuada aliquet elit vestibulum enim" Detail="Donec penatibus taciti nam facilisi"/>
+                <ThreeTargets_Model:ContentModel Description="Vestibulum porttitor" Detail="Blandit adipiscing tellus commodo"/>
+                <ThreeTargets_Model:ContentModel Description="Faucibus tincidunt" Detail="Habitant tempor tristique erat inceptos"/>
+                <ThreeTargets_Model:ContentModel Description="Conubia sed tempus" Detail="Tortor ultricies eros"/>
+                <ThreeTargets_Model:ContentModel Description="Interdum parturient vestibulum cubilia" Detail="Etiam turpis varius"/>
+            </ThreeTargets_Model:ManifestModel.Contents>
+        </ThreeTargets_Model:ManifestModel>
+        <ThreeTargets_Model:ManifestModel Title="Proin nunc facilisis iaculis">
+            <ThreeTargets_Model:ManifestModel.Contents>
+                <ThreeTargets_Model:ContentModel Description="Lobortis dapibus adipiscing" Detail="Curabitur fusce est nascetur"/>
+                <ThreeTargets_Model:ContentModel Description="Mauris hac" Detail="Phasellus nullam leo pharetra consequat"/>
+                <ThreeTargets_Model:ContentModel Description="Egestas convallis euismod parturient dignissim" Detail="Vestibulum vestibulum nibh lorem placerat"/>
+                <ThreeTargets_Model:ContentModel Description="Mus nisi morbi feugiat nec" Detail="Elementum adipiscing pulvinar nulla"/>
+                <ThreeTargets_Model:ContentModel Description="Gravida nisl sagittis senectus" Detail="Sociosqu suscipit aptent torquent"/>
+            </ThreeTargets_Model:ManifestModel.Contents>
+        </ThreeTargets_Model:ManifestModel>
+        <ThreeTargets_Model:ManifestModel Title="Nunc ipsum malesuada maecenas">
+            <ThreeTargets_Model:ManifestModel.Contents>
+                <ThreeTargets_Model:ContentModel Description="Fermentum parturient auctor fringilla lacinia" Detail="Odio vestibulum"/>
+                <ThreeTargets_Model:ContentModel Description="Augue laoreet" Detail="Vestibulum natoque"/>
+                <ThreeTargets_Model:ContentModel Description="Dolor fames habitasse" Detail="Orci hendrerit pede congue"/>
+                <ThreeTargets_Model:ContentModel Description="Quam adipiscing" Detail="Ultrices himenaeos quis vehicula parturient"/>
+                <ThreeTargets_Model:ContentModel Description="Urna imperdiet cras felis duis" Detail="Volutpat vestibulum posuere non"/>
+            </ThreeTargets_Model:ManifestModel.Contents>
+        </ThreeTargets_Model:ManifestModel>
+        <ThreeTargets_Model:ManifestModel Title="Vivamus ultricies">
+            <ThreeTargets_Model:ManifestModel.Contents>
+                <ThreeTargets_Model:ContentModel Description="Potenti pretium per" Detail="Justo penatibus rhoncus"/>
+                <ThreeTargets_Model:ContentModel Description="Praesent lacus cursus vestibulum" Detail="Sodales viverra"/>
+                <ThreeTargets_Model:ContentModel Description="Aliquam adipiscing parturient" Detail="Vestibulum vestibulum adipiscing accumsan"/>
+                <ThreeTargets_Model:ContentModel Description="Bibendum porttitor lorem" Detail="Dictum dictumst sed"/>
+                <ThreeTargets_Model:ContentModel Description="Magna massa integer tincidunt" Detail="Amet quisque tristique parturient"/>
+            </ThreeTargets_Model:ManifestModel.Contents>
+        </ThreeTargets_Model:ManifestModel>
+    </ThreeTargets_ViewModel:MainViewModel.Manifests>
+</ThreeTargets_ViewModel:MainViewModel>

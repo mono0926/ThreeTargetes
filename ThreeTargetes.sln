@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeTargets", "ThreeTargets.WP7\ThreeTargets.csproj", "{C76BE5F3-9200-4CFD-B541-B38CEC4B8191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileAgent", "TileAgent\TileAgent.csproj", "{5B1530A6-1D8F-4453-A2A8-6EAC3143DF04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C76BE5F3-9200-4CFD-B541-B38CEC4B8191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76BE5F3-9200-4CFD-B541-B38CEC4B8191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76BE5F3-9200-4CFD-B541-B38CEC4B8191}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C76BE5F3-9200-4CFD-B541-B38CEC4B8191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76BE5F3-9200-4CFD-B541-B38CEC4B8191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C76BE5F3-9200-4CFD-B541-B38CEC4B8191}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5B1530A6-1D8F-4453-A2A8-6EAC3143DF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B1530A6-1D8F-4453-A2A8-6EAC3143DF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B1530A6-1D8F-4453-A2A8-6EAC3143DF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B1530A6-1D8F-4453-A2A8-6EAC3143DF04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

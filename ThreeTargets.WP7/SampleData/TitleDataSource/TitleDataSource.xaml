@@ -1,0 +1,19 @@
+﻿<!--
+      *********    このファイルを編集しないでください     *********
+      このファイルはデザイン ツールにより作成されました。
+      このファイルに変更を加えるとエラーが発生する場合があります。
+-->
+<SampleData:TitleDataSource xmlns:SampleData="clr-namespace:Expression.Blend.SampleData.TitleDataSource" Title="Nam class" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+  <SampleData:TitleDataSource.Collection>
+    <SampleData:Item Descpription="Cras duis maecenas class" Property2="True" Property1="Aenean mauris" />
+    <SampleData:Item Descpription="Nam aenean curae mauris" Property2="False" Property1="Maecenas class cras" />
+    <SampleData:Item Descpription="Nullam aliquam donec" Property2="True" Property1="Duis aliquam nam" />
+    <SampleData:Item Descpription="Praesent etiam accumsan sed" Property2="False" Property1="Sed integer nullam aptent" />
+    <SampleData:Item Descpription="Bibendum dis" Property2="True" Property1="Nunc curae" />
+    <SampleData:Item Descpription="Fusce nunc" Property2="False" Property1="Quisque praesent" />
+    <SampleData:Item Descpription="Dictumst lorem est" Property2="True" Property1="Amet dis auctor vivamus" />
+    <SampleData:Item Descpription="Hac morbi" Property2="False" Property1="Est aliquam hac ante" />
+    <SampleData:Item Descpription="Leo integer" Property2="True" Property1="Leo donec arcu" />
+    <SampleData:Item Descpription="Mus quisque nec vivamus" Property2="False" Property1="Diam congue cursus" />
+  </SampleData:TitleDataSource.Collection>
+</SampleData:TitleDataSource>

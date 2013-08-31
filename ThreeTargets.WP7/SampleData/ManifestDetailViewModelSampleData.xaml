@@ -1,0 +1,14 @@
+<ThreeTargets_ViewModel:ManifestDetailViewModel xmlns:ThreeTargets_ViewModel="clr-namespace:ThreeTargets.ViewModel" xmlns:ThreeTargets_Model="clr-namespace:ThreeTargets.Model" IsInDesignMode="True" IsInDesignModeStatic="False" Title="Egestas elit augue tincidunt tristique">
+	<ThreeTargets_ViewModel:ManifestDetailViewModel.Contents>
+		<ThreeTargets_Model:ContentModel Description="Aliquam curabitur maecenas" Detail="Nam class phasellus"/>
+		<ThreeTargets_Model:ContentModel Description="Vestibulum praesent accumsan consequat" Detail="Convallis cras dignissim"/>
+		<ThreeTargets_Model:ContentModel Description="Integer aenean quisque" Detail="Curae vivamus sed duis aliquam"/>
+		<ThreeTargets_Model:ContentModel Description="Adipiscing nunc donec etiam elementum" Detail="Aliquet bibendum"/>
+		<ThreeTargets_Model:ContentModel Description="Amet facilisis parturient mauris blandit" Detail="Commodo fusce dictumst fermentum dis"/>
+		<ThreeTargets_Model:ContentModel Description="Ante est" Detail="Fringilla nullam conubia habitasse"/>
+		<ThreeTargets_Model:ContentModel Description="Vestibulum hendrerit vestibulum" Detail="Aptent himenaeos cubilia"/>
+		<ThreeTargets_Model:ContentModel Description="Arcu imperdiet" Detail="Diam lorem"/>
+		<ThreeTargets_Model:ContentModel Description="Hac dapibus eleifend" Detail="Morbi malesuada auctor eget"/>
+		<ThreeTargets_Model:ContentModel Description="Nulla congue" Detail="Penatibus porttitor proin"/>
+	</ThreeTargets_ViewModel:ManifestDetailViewModel.Contents>
+</ThreeTargets_ViewModel:ManifestDetailViewModel>
